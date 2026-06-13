@@ -66,11 +66,11 @@ NutriPak’s core idea is simple:
 ### Dashboard
 
 ![NutriPak Dashboard]
-<img width="540" height="1230" alt="image" src="https://github.com/user-attachments/assets/2d682f3b-2756-43c1-805b-e0a3a317daab" />
-<img width="540" height="1230" alt="image" src="https://github.com/user-attachments/assets/d13d0418-4fa6-4abe-bdde-72467dd40f76" />
+
 
 ### Splash screen 
-<img width="1080" height="2460" alt="WhatsApp Image 2026-06-14 at 2 11 43 AM" src="https://github.com/user-attachments/assets/40bc25a0-cbad-4de9-8ae0-72b576ef2cb6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f99894d-021d-407e-8955-dd6c5f8f44e5" />
+
 
 ### Personalized Onboarding
 
