@@ -755,20 +755,7 @@ assets/
 **Developer:** Hammad Ahmad
 **Role:** BSCS Student / Flutter Developer / AI-powered app builder
 **University:** COMSATS University Islamabad, Sahiwal Campus
-**Project Type:** Final Year Project / Portfolio Project
 
 NutriPak was developed as a practical, real-world software project combining mobile development, Firebase, AI integration, clean architecture, nutrition tracking, and health-focused user experience design.
 
 ---
-
-## 📬 Contact
-
-* 💼 LinkedIn: Add later
-* 🐙 GitHub: Add later
-* 📧 Email: Add later
-
----
-
-## 🏷️ Keywords
-
-Flutter, Dart, Firebase, GetX, AI Diet Plan, Gemini AI, Pakistani Food, Nutrition Tracker, Health App, Final Year Project, Clean Architecture, Firestore, Mobile App Development, Micronutrient Analysis, Nutritionist Consultation, Pakistani Diet App
